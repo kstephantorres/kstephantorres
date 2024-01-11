@@ -20,7 +20,11 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<br/>
 
+<a href="https://github.com/kstephantorres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstephantorres&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **kstephantorres/kstephantorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
