@@ -1,5 +1,5 @@
 <h2> Hola 👋, soy Kevin.👨‍💻</h2>
-<p align="center">Soy <strong>Desarrollador web</strong> Trainee <br /></p>
+<p align="center">Soy <strong>Desarrollador web</strong> (Trainee) <br/></p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
